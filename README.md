@@ -1,5 +1,7 @@
-## Yuh yuh its keira
-so yuh i use Py,JS,TS,Lua and Lua-U, little rust, yuh
-i wanna learn brainfuck
+## Who am I
+Hello! I'm Keira, a 17 year old programmer and software enthusiast. I'm always looking for new challenges and opportunities.
 
-i have a few projects u can look at, but mainly look at my website 😎
+# Frameworks and Languages
+I mainly use Python, Lua and JS but I'm experienced in Lua-U, TypeScript, Rust, CPP and C#!
+
+I have a few projects you can have a look at on my github, but I also have my website available as well as some other websites you can peruse at.
