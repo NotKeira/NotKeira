@@ -1,5 +1,5 @@
 ## Who am I
-Hello! I'm Keira, a 17 year old programmer and software enthusiast. I'm always looking for new challenges and opportunities.
+Hello! I'm Keira, an 18 year old programmer and software enthusiast. I'm always looking for new challenges and opportunities.
 
 # Frameworks and Languages
 I mainly use Python, Lua and JS but I'm experienced in Lua-U, TypeScript, Rust, CPP and C#!
