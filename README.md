@@ -1,4 +1,4 @@
-# Keira
+# Keira Hopkins
 
 18-year-old software engineer specialising in systems programming and backend development.
 
@@ -7,10 +7,10 @@
 ## Languages & Technologies
 
 **Primary:** TypeScript, C, Rust  
-**Secondary:** C++, C#, Python
-**Familiar:** Lua, Java
-**Known but unused**: PowerShell, Fish, Bash
-**Known but disliked:** Kotlin, Ruby (minimal), Vue
+**Secondary:** C++, C#, Python  
+**Familiar:** Lua, Java  
+**Known but unused**: PowerShell, Fish, Bash  
+**Known but disliked:** Kotlin, Ruby (minimal), Vue  
 
 ## Focus Areas
 
@@ -26,4 +26,5 @@ Browse my repositories for practical implementations across systems programming,
 
 ## Links
 
-- [Website](https://keirahopkins.co.uk)
+- [Website](https://keirahopkins.co.uk/?referred-by=github-portfolio-readme)
+- [Elara, The Discord Bot](https://elara.evotrix.org/?referred-by=github-portfolio-readme)
