@@ -7,15 +7,18 @@
 ## Languages & Technologies
 
 **Primary:** TypeScript, C, Rust  
-**Secondary:** C++, C#, Python  
+**Secondary:** C++, C#, Python
 **Familiar:** Lua, Java
+**Known but unused**: PowerShell, Fish, Bash
+**Known but disliked:** Kotlin, Ruby (minimal), Vue
 
 ## Focus Areas
 
 - Systems programming and CLI tooling
-- Backend services (Rust-based web architectures)
+- Backend services (TypeScript or Rust-based web architectures)
+- Web services
 - Machine learning from first principles
-- USB device monitoring and system utilities
+- System monitoring and system utilities
 
 ## Projects
 
