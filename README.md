@@ -26,5 +26,5 @@ Browse my repositories for practical implementations across systems programming,
 
 ## Links
 
-- [Website](https://keirahopkins.co.uk/?referred-by=github-portfolio-readme)
-- [Elara, The Discord Bot](https://elara.evotrix.org/?referred-by=github-portfolio-readme)
+- [Website](https://keirahopkins.co.uk/?ref=github-portfolio-readme)
+- [Elara, The Discord Bot](https://elara.evotrix.org/?ref=github-portfolio-readme)
